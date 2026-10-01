@@ -1,0 +1,13 @@
+batch_id,deviation_code,opened_by,opened_at,description,reviewed_by,reviewer_signature_present,disposition
+BR-2024005,DEV-EQUIPMENT-ALARM,T. Nguyen,2024-01-18T23:01:50.616114,Equipment Alarm observed during batch BR-2024005.,QA-1 M. Torres,True,Closed - No Impact
+BR-2024023,DEV-DO-LOW,E. Johansson,2024-02-18T14:49:36.941265,Do Low observed during batch BR-2024023.,,False,PENDING REVIEW
+BR-2024034,DEV-LATE-SAMPLE,R. Patel,2024-03-08T07:50:01.124811,Late Sample observed during batch BR-2024034.,QA-1 M. Torres,True,Closed - No Impact
+BR-2024047,DEV-TEMP-EXCURSION,T. Nguyen,2024-03-30T08:25:08.918799,Temp Excursion observed during batch BR-2024047.,QA-1 M. Torres,True,Closed - No Impact
+BR-2024059,DEV-OOS-RELEASE,K. Novak,2024-04-19T17:49:12.465222,Oos Release observed during batch BR-2024059.,,False,PENDING REVIEW
+BR-2024096,DEV-OOS-RELEASE,S. Chen,2024-06-21T15:10:41.215678,Oos Release observed during batch BR-2024096.,QA-2 B. Williams,True,Closed - No Impact
+BR-2024108,DEV-PH-DRIFT,L. Rossi,2024-07-12T01:44:53.319899,Ph Drift observed during batch BR-2024108.,QA-1 M. Torres,True,Closed - No Impact
+BR-2024109,DEV-PH-DRIFT,L. Rossi,2024-07-13T20:01:09.960916,Ph Drift observed during batch BR-2024109.,QA-3 P. Singh,True,Closed - No Impact
+BR-2024133,DEV-TEMP-EXCURSION,S. Chen,2024-08-23T14:37:42.352992,Temp Excursion observed during batch BR-2024133.,QA-2 B. Williams,True,Closed - No Impact
+BR-2024135,DEV-LATE-SAMPLE,J. Alvarez,2024-08-27T00:30:28.673830,Late Sample observed during batch BR-2024135.,QA-1 M. Torres,True,Closed - No Impact
+BR-2024140,DEV-OOS-RELEASE,S. Chen,2024-09-04T10:02:07.017394,Oos Release observed during batch BR-2024140.,QA-3 P. Singh,True,Closed - No Impact
+BR-2024149,DEV-EQUIPMENT-ALARM,L. Rossi,2024-09-19T19:46:22.456886,Equipment Alarm observed during batch BR-2024149.,QA-3 P. Singh,True,Closed - No Impact
